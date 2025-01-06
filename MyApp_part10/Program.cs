@@ -11,9 +11,7 @@ class Program
     {
         Type type = typeof(ConfigurationManager<>);
     }
-
-
-
+    
 
     internal class ConfigurationManager<T>
     {

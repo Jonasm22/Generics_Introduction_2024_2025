@@ -1,5 +1,7 @@
 namespace MyApp_part9;
 
+//this project was created in Spanish Language
+//The english version is not currently available 
 class Program
 {
     static void Main(string[] args)
