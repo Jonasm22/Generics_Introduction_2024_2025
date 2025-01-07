@@ -1,4 +1,4 @@
-### 📜 **Using Generics eni C#**  
+📜 **Using Generics eni C#**  
 
 **ENGLISH**  
 Generics enable creating classes, methods, and structures that work with any data type without duplicating code. They provide flexibility, type safety, and better performance.  
@@ -11,7 +11,7 @@ Generics permiten crear clases, métodos y estructuras que funcionan con cualqui
 
 ---
 
-### 📚 **Example
+📚 **Example
 
 
 public class GenericList<T>
