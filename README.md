@@ -13,7 +13,7 @@ Generics permiten crear clases, métodos y estructuras que funcionan con cualqui
 
 📚 **Example**
 
-
+```csharp
 public class GenericList<T>
 {
     private List<T> items = new List<T>();
@@ -42,7 +42,7 @@ class Program
         Console.WriteLine($"String at index 1: {stringList.Get(1)}"); // Output: World
     }
 }
-
+```
 
 **Key Benefits / Beneficios / Vorteile**  
 - 🔒 **Type Safety:** Prevents runtime errors by checking types at compile time.  
