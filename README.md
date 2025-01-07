@@ -11,7 +11,7 @@ Generics permiten crear clases, métodos y estructuras que funcionan con cualqui
 
 ---
 
-📚 **Example
+📚 **Example**
 
 
 public class GenericList<T>
