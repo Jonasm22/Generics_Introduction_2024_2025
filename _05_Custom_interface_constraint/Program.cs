@@ -1,5 +1,5 @@
 ﻿//Section 21 - 337
-//Custmon interface constraint
+//Custom interface constraint
 namespace MyApp_Part5;
 
 class Program

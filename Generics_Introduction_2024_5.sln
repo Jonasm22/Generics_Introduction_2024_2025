@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_Multiple_generic_Types_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_Generic_methods_without_generic_classes", "_04_Generic_methods_without_generic_classes\_04_Generic_methods_without_generic_classes.csproj", "{E605EE03-7ED9-4204-B895-CFEEB2C05730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp_Part5", "MyApp_Part5\MyApp_Part5.csproj", "{37CBB1D5-C261-4FA5-8AA3-3D23D5171633}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_Custom_interface_constraint", "_05_Custom_interface_constraint\_05_Custom_interface_constraint.csproj", "{37CBB1D5-C261-4FA5-8AA3-3D23D5171633}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp_Part6", "MyApp_Part6\MyApp_Part6.csproj", "{5086A4D5-98E7-4EB0-B0C3-1981FEB62829}"
 EndProject
