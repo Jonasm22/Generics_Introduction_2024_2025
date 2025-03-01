@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Creating_a_simple_App",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_generic_class_type_in_a_method", "_02_generic_class_type_in_a_method\_02_generic_class_type_in_a_method.csproj", "{8A8272E6-BA3C-4FA4-81BD-F024770CB2AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp_Part3", "MyApp_Part3\MyApp_Part3.csproj", "{99CCA8C6-3907-429C-B68E-D1C9DB05DE1B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_Multiple_generic_Types_in_a_class", "_03_Multiple_generic_Types_in_a_class\_03_Multiple_generic_Types_in_a_class.csproj", "{99CCA8C6-3907-429C-B68E-D1C9DB05DE1B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApp_Part4", "MyApp_Part4\MyApp_Part4.csproj", "{E605EE03-7ED9-4204-B895-CFEEB2C05730}"
 EndProject
