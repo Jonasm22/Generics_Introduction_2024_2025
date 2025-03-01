@@ -1,4 +1,4 @@
-﻿// Chapter 1, Creating_a_simple_App 
+﻿// Chapter 1, _Creating_a_simple_App 
 
 namespace L1_MyApp;
 

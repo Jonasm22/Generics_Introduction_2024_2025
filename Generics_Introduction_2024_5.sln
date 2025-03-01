@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating_a_simple_App", "Creating_a_simple_App\Creating_a_simple_App.csproj", "{02F5EC2D-BEF4-4A1C-974F-F32C0DE0552D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Creating_a_simple_App", "_01_Creating_a_simple_App\_01_Creating_a_simple_App.csproj", "{02F5EC2D-BEF4-4A1C-974F-F32C0DE0552D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generic_class_type_in_a_method", "generic_class_type_in_a_method\generic_class_type_in_a_method.csproj", "{8A8272E6-BA3C-4FA4-81BD-F024770CB2AE}"
 EndProject
